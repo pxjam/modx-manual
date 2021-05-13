@@ -1,0 +1,12 @@
+{
+    "name": "modx-manual",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "node ./_build/build.js"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "concat": "^1.0.3"
+    }
+}
+
